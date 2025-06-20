@@ -1,4 +1,4 @@
-# NombreDelProyecto  
+# TextilConfección S.A.  
 
 ## 📚 Contexto  
 TextilConfección S.A., proveedor de vestuario para marcas internacionales, enfrenta un 30% de retrabajo por errores en cortes/costuras, 45% de órdenes entregadas con retraso (multas de USD $80k en 2023) y 18% de desperdicio de tela, debido a la falta de trazabilidad digital y planificación ineficiente. Este proyecto desarrolla un sistema de trazabilidad con blockchain (Hyperledger Fabric) y QR para rastrear insumos desde su origen, junto con planificación automática de producción, monitoreo en tiempo real de eficiencia y alertas predictivas de mantenimiento, con el fin de eliminar rechazos, reducir retrasos y optimizar el uso de materiales. 
@@ -21,18 +21,18 @@ TextilConfección S.A., proveedor de vestuario para marcas internacionales, enfr
   - RNF-05: Interfaces simples y adaptadas al perfil técnico del operario.
 
 ## 📐 Diagramas (4+1)  
-- Ver carpeta `/diagramas`.  
+- Ver carpeta `/Diagramas`.  
 
 ## 🗂 Organización  
 - **Metodología**: Scrum.  
-- **Roles**: [Lista].  
+- **Roles**: [Gestor de proyectos, analista, tester (QA), diseñador].  
 - **Cronograma**: [Enlace a Gantt].  
 
 ## 🎨 MockUp y Prototipo  
 - Prototipo interactivo: [Enlace a Google Sites/Moqups].  
 
 ## 🧪 Pruebas  
-- Ver carpeta `/pruebas`.  
+- Ver carpeta `/Pruebas`.  
 
 ## 💻 Desarrollo  
-- *Rama `main` reservada para código futuro*.  
+- *Rama `Desarrollo` reservada para código futuro*.  
