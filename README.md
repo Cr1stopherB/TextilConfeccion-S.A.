@@ -6,10 +6,19 @@
 
 ## ⚙️ Requerimientos  
 - **Funcionales**:  
-  1. RF-01: [Descripción].  
-  2. RF-02: [Descripción].  
+  1. RF-01: Trazabilidad completa desde insumos hasta el producto final, accesible mediante QR.  
+  2. RF-02: Planificación y asignación automática de órdenes de producción.
+  3. RF-03: Registro y control de tiempos reales por etapa de producción.
+  4. RF-04: Visualización de eficiencia de producción por operario o línea.
+  5. RF-05: Registro de lotes, proveedores e insumos con soporte blockchain.
+  6. RF-06: Generación automática de códigos QR para etiquetado del producto.
+  7. RF-07: Alertas predictivas para mantenimiento según uso de maquinaria.
 - **No funcionales**:  
-  1. RNF-01: [Descripción].  
+  1. RNF-01: [Integración con maquinaria CNC y cortadoras láser].
+  2. RNF-02: [Soporte para al menos 500 usuarios concurrentes].
+  3. RNF-02: [Alta disponibilidad del sistema (24/7) en el entorno productivo].
+  4. RNF-02: [Tiempo de respuesta inferior a 2 segundos para operaciones comunes].
+  5. RNF-02: [Interfaces simples y adaptadas al perfil técnico del operario].
 
 ## 📐 Diagramas (4+1)  
 - Ver carpeta `/diagramas`.  
