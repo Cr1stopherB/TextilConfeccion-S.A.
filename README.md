@@ -25,8 +25,7 @@ TextilConfección S.A., proveedor de vestuario para marcas internacionales, enfr
 
 ## 🗂 Organización  
 - **Metodología**: Scrum.  
-- **Roles**: [Gestor de proyectos, analista, tester (QA), diseñador].  
-- **Cronograma**: [Organización](/Organización/Carta_Gantt).  
+- **Roles**: [Gestor de proyectos, analista, tester (QA), diseñador]. 
 
 ## 🎨 MockUp y Prototipo  
 - Prototipo interactivo: [Enlace a Google Sites/Moqups].  
