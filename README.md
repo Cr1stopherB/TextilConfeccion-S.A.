@@ -21,7 +21,7 @@ TextilConfección S.A., proveedor de vestuario para marcas internacionales, enfr
   - RNF-05: Interfaces simples y adaptadas al perfil técnico del operario.
 
 ## 📐 Diagramas (4+1)  
-- Ver carpeta `/Diagramas`.  
+- Ver carpeta [Diagramas](/Diagramas).  
 
 ## 🗂 Organización  
 - **Metodología**: Scrum.  
@@ -32,7 +32,7 @@ TextilConfección S.A., proveedor de vestuario para marcas internacionales, enfr
 - Prototipo interactivo: [Enlace a Google Sites/Moqups].  
 
 ## 🧪 Pruebas  
-- Ver carpeta `/Pruebas`.  
+- Ver carpeta [Pruebas](/Pruebas).  
 
 ## 💻 Desarrollo  
-- *Rama `Desarrollo` reservada para código futuro*.  
+- *Rama [Desarrollo](/Desarrollo) reservada para código futuro*.  
